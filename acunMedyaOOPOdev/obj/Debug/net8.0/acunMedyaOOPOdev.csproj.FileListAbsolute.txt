@@ -1,0 +1,14 @@
+/Users/gorkemdikbakan/RiderProjects/acunMedyaOOPOdev/acunMedyaOOPOdev/obj/Debug/net8.0/acunMedyaOOPOdev.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gorkemdikbakan/RiderProjects/acunMedyaOOPOdev/acunMedyaOOPOdev/obj/Debug/net8.0/acunMedyaOOPOdev.AssemblyInfoInputs.cache
+/Users/gorkemdikbakan/RiderProjects/acunMedyaOOPOdev/acunMedyaOOPOdev/obj/Debug/net8.0/acunMedyaOOPOdev.AssemblyInfo.cs
+/Users/gorkemdikbakan/RiderProjects/acunMedyaOOPOdev/acunMedyaOOPOdev/obj/Debug/net8.0/acunMedyaOOPOdev.csproj.CoreCompileInputs.cache
+/Users/gorkemdikbakan/RiderProjects/acunMedyaOOPOdev/acunMedyaOOPOdev/bin/Debug/net8.0/acunMedyaOOPOdev
+/Users/gorkemdikbakan/RiderProjects/acunMedyaOOPOdev/acunMedyaOOPOdev/bin/Debug/net8.0/acunMedyaOOPOdev.deps.json
+/Users/gorkemdikbakan/RiderProjects/acunMedyaOOPOdev/acunMedyaOOPOdev/bin/Debug/net8.0/acunMedyaOOPOdev.runtimeconfig.json
+/Users/gorkemdikbakan/RiderProjects/acunMedyaOOPOdev/acunMedyaOOPOdev/bin/Debug/net8.0/acunMedyaOOPOdev.dll
+/Users/gorkemdikbakan/RiderProjects/acunMedyaOOPOdev/acunMedyaOOPOdev/bin/Debug/net8.0/acunMedyaOOPOdev.pdb
+/Users/gorkemdikbakan/RiderProjects/acunMedyaOOPOdev/acunMedyaOOPOdev/obj/Debug/net8.0/acunMedyaOOPOdev.dll
+/Users/gorkemdikbakan/RiderProjects/acunMedyaOOPOdev/acunMedyaOOPOdev/obj/Debug/net8.0/refint/acunMedyaOOPOdev.dll
+/Users/gorkemdikbakan/RiderProjects/acunMedyaOOPOdev/acunMedyaOOPOdev/obj/Debug/net8.0/acunMedyaOOPOdev.pdb
+/Users/gorkemdikbakan/RiderProjects/acunMedyaOOPOdev/acunMedyaOOPOdev/obj/Debug/net8.0/acunMedyaOOPOdev.genruntimeconfig.cache
+/Users/gorkemdikbakan/RiderProjects/acunMedyaOOPOdev/acunMedyaOOPOdev/obj/Debug/net8.0/ref/acunMedyaOOPOdev.dll
