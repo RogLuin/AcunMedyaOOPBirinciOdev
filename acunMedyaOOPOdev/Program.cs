@@ -19,8 +19,11 @@ foreach (var developer in developerManager.getDevelopers())
 }
 
 Manager manager1 = new Manager("Ahmet", 100000, "Backend", 20);
+Manager manager2 = new Manager("Hakkı", 66000, "Fronted", 5);
 manager1.Id = 1;
+manager2.Id = 2;
 managerManager.addManager(manager1);
+managerManager.addManager(manager2);
 
 
 Console.WriteLine("Manager Listesi :");

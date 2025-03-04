@@ -12,3 +12,4 @@
 /Users/gorkemdikbakan/RiderProjects/acunMedyaOOPOdev/acunMedyaOOPOdev/obj/Debug/net8.0/acunMedyaOOPOdev.pdb
 /Users/gorkemdikbakan/RiderProjects/acunMedyaOOPOdev/acunMedyaOOPOdev/obj/Debug/net8.0/acunMedyaOOPOdev.genruntimeconfig.cache
 /Users/gorkemdikbakan/RiderProjects/acunMedyaOOPOdev/acunMedyaOOPOdev/obj/Debug/net8.0/ref/acunMedyaOOPOdev.dll
+/Users/gorkemdikbakan/RiderProjects/acunMedyaOOPOdev/acunMedyaOOPOdev/obj/Debug/net8.0/acunMedyaOOPOdev.sourcelink.json
